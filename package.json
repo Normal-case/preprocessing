@@ -1,0 +1,26 @@
+{
+  "name": "preprocessing",
+  "version": "1.0.0",
+  "description": "I will create preprocessing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Normal-case/preprocessing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Normal-case/preprocessing/issues"
+  },
+  "homepage": "https://github.com/Normal-case/preprocessing#readme",
+  "dependencies": {
+    "next": "^12.0.10",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
